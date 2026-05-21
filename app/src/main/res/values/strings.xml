@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">منبه ومهام YM</string>
+    <string name="app_desc">تطبيق منبه بسيط لتنظيم وترتيب مهامك اليومية مع منبهات مخصصة.</string>
+    <string name="add_alarm">إضافة منبه</string>
+    <string name="edit_alarm">تعديل المنبه</string>
+    <string name="delete_alarm">حذف المنبه</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="add_task">إضافة مهمة</string>
+    <string name="edit_task">تعديل المهمة</string>
+    <string name="task_title">عنوان المهمة</string>
+    <string name="task_desc">تفاصيل المهمة (اختياري)</string>
+    <string name="no_alarms">لا توجد منبهات حالياً. أضف منبهاً للبدء!</string>
+    <string name="no_tasks">لا توجد مهام اليوم. أضف مهمة لترتيب يومك!</string>
+    <string name="alarms_tab">المنبهات</string>
+    <string name="tasks_tab">المهام اليومية</string>
+    <string name="am">ص</string>
+    <string name="pm">م</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "منبه ومهام YM",
+  "description": "تطبيق منبه بسيط لتنظيم وترتيب مهامك اليومية مع منبهات مخصصة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
